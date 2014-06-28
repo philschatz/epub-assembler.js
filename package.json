@@ -1,0 +1,14 @@
+{
+  "name": "epub-assembler",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Philip Schatz",
+  "dependencies": {
+    "coffee-script": ">= 1.6.2",
+    "jsdom": "~0.2",
+    "q": "~0.8.12",
+    "underscore": "~1.5.2",
+    "URIjs": "~1.11.2",
+    "optimist": "~0.3"
+  }
+}
