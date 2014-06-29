@@ -9,6 +9,7 @@
     "q": "~0.8.12",
     "underscore": "~1.5.2",
     "URIjs": "~1.11.2",
-    "optimist": "~0.3"
+    "optimist": "~0.3",
+    "css-bake": "~0.1.3"
   }
 }
